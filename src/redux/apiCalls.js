@@ -61,7 +61,6 @@ import {
 
 export const login = async (dispatch, user) => {
     dispatch(loginStart());
-    console.log(publicRequest)
     try {
         const { data } = await publicRequest.post("/auth/login", user)
         const { accessToken, refreshToken, refreshTokenId, ...others } = data;
