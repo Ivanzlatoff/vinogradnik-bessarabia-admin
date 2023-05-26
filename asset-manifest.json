@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/css/main.31250a76.chunk.css",
+    "main.js": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/main.f2f95f97.chunk.js",
+    "main.js.map": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/main.f2f95f97.chunk.js.map",
+    "runtime-main.js": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/runtime-main.b65a19aa.js",
+    "runtime-main.js.map": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/runtime-main.b65a19aa.js.map",
+    "static/js/2.f8fc031e.chunk.js": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/2.f8fc031e.chunk.js",
+    "static/js/2.f8fc031e.chunk.js.map": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/2.f8fc031e.chunk.js.map",
+    "index.html": "/Ivanzlatoff/vinogradnik-bessarabia-admin/index.html",
+    "static/css/main.31250a76.chunk.css.map": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/css/main.31250a76.chunk.css.map",
+    "static/js/2.f8fc031e.chunk.js.LICENSE.txt": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/js/2.f8fc031e.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/Ivanzlatoff/vinogradnik-bessarabia-admin/static/media/getFetch.5fde86e3.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65a19aa.js",
+    "static/js/2.f8fc031e.chunk.js",
+    "static/css/main.31250a76.chunk.css",
+    "static/js/main.f2f95f97.chunk.js"
+  ]
+}
